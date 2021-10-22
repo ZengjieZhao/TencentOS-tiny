@@ -97,3 +97,6 @@ TencentOS tiny联合合作伙伴(南京厚德物联网)设计了定制开发板�
 扫码加群，请备注TencentOS tiny开发者，工作人员会根据备注进行审核：
 
 ![](./doc/picture/introduction/qq.png)
+
+# 九、测试
+
